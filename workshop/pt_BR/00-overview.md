@@ -7,20 +7,20 @@
 > **Nível:** Intermediário  
 > **Stack:** Astro / Node.js / TypeScript
 
-Construa um aplicativo retro estilo arcade para comparar contribuições do GitHub — **Mona Mayhem** — enquanto aprende todo o espectro de fluxos de trabalho do GitHub Copilot. O workshop suporta **duas trilhas**: uma experiência no VS Code e uma experiência com GitHub Copilot CLI.
+Construa um aplicativo retrô de arcade para comparar contribuições do GitHub — **Mona Mayhem** — enquanto aprende todo o espectro de fluxos de trabalho do GitHub Copilot. O workshop oferece **duas trilhas**: uma experiência no VS Code e outra com o GitHub Copilot CLI.
 
 ---
 
-## 🎯 Escolha Sua Trilha
+## 🎯 Escolha sua trilha
 
-- **Trilha VS Code** — fique no editor e pratique Chat, Plan Mode, Agent Mode, agentes em segundo plano e o ciclo de revisão integrado.
-- **Trilha CLI** — fique no terminal e pratique `copilot`, contexto com `@file`, `/plan`, edições autônomas, `/fleet`, `/delegate` e `/review`.
+- **Trilha do VS Code** — trabalhe no editor e pratique Chat, Plan Mode, Agent Mode, agentes em segundo plano e o ciclo de revisão integrado.
+- **Trilha da CLI** — trabalhe no terminal e pratique `copilot`, contexto com `@file`, `/plan`, edições autônomas, `/fleet`, `/delegate` e `/review`.
 
-Siga a trilha que corresponde ao seu fluxo de trabalho preferido.
+Siga a trilha que combina com seu fluxo de trabalho.
 
 ---
 
-## 📋 Lista de Verificação Rápida
+## 📋 Lista de verificação rápida
 
 Antes de começar, verifique:
 
@@ -45,13 +45,13 @@ Antes de começar, verifique:
 
 ---
 
-## 🧠 O Que Você Vai Aprender
+## 🧠 O que você vai aprender
 
 | # | Habilidade | Descrição |
 |---|------------|-----------|
-| 1 | **Context Engineering** | Ensine o Copilot sobre sua base de código com instruções, referências e restrições claras |
+| 1 | **Engenharia de contexto** | Ensine ao Copilot como é sua base de código com instruções, referências e restrições claras |
 | 2 | **Planejar Primeiro** | Projete a arquitetura antes da implementação |
-| 3 | **Implementação Agêntica** | Deixe o Copilot realizar trabalho de codificação em múltiplas etapas com sua supervisão |
+| 3 | **Implementação agêntica** | Deixe o Copilot realizar tarefas de programação em várias etapas sob sua supervisão |
 | 4 | **Design Iterativo** | Use o Copilot para transformar visuais e refinar detalhes de interação |
 | 5 | **Fluxos de Trabalho Paralelos** | Divida o trabalho entre agentes, sessões ou tarefas delegadas |
 
@@ -75,11 +75,11 @@ Antes de começar, verifique:
 
 ---
 
-## 📚 Partes do Laboratório
+## 📚 Etapas do workshop
 
 | Parte | Título | Descrição |
 |-------|--------|-----------|
-| [**01**](01-setup.md) | Configuração e Context Engineering | Crie seu repositório, prepare seu ambiente e dê ao Copilot o contexto adequado |
+| [**01**](01-setup.md) | Configuração e engenharia de contexto | Crie seu repositório, prepare seu ambiente e forneça o contexto adequado ao Copilot |
 | [**02**](02-plan-and-scaffold.md) | Planejar e Estruturar | Projete a API e a arquitetura de páginas antes de implementar |
 | [**03**](03-agent-mode.md) | Construir o Jogo | Conecte a página de batalha e os gráficos de contribuições com ajuda agêntica |
 | [**04**](04-design-vibes.md) | Design Visual Primeiro | Transforme a estrutura base em uma experiência retro arcade |
@@ -88,7 +88,7 @@ Antes de começar, verifique:
 
 ---
 
-## 💡 Dicas Pro
+## 💡 Dicas práticas
 
 1. **Mantenha o navegador aberto** — observe as atualizações em tempo real enquanto programa.
 2. **Faça commits frequentes** — salve pontos de controle limpos enquanto itera.
